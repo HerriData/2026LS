@@ -11,7 +11,7 @@ def main():
         for i, row in enumerate(reader, start=1):
             
             # Exclure les lignes dont le champ "exclusion" est différent de 0
-            if row.get("exclure", "").strip() != "0":
+            if row.get("Exclure", "").strip() != "0":
                 continue
                 
             try:
