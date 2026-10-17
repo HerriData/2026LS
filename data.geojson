@@ -8966,12 +8966,12 @@
         "Mise en service (min)": "2025",
         "Mise en service (max)": "2025",
         "Exclure": "0",
-        "Nb_visites": "0",
-        "Date": "non visité",
-        "Nbre_votes_direct_elec": "0",
-        "Nbre_votes_direct_env": "0",
-        "Nbre_prom": "0",
-        "Nbre_deja_fait": "0",
+        "Nb_visites": "1",
+        "Date": "17/10/2026",
+        "Nbre_votes_direct_elec": "4",
+        "Nbre_votes_direct_env": "5",
+        "Nbre_prom": "10",
+        "Nbre_deja_fait": "3",
         "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE%20LAMANDE-BIARRITZ&entry.525362661=OFFICE89",
         "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE LAMANDE-BIARRITZ&entry.525362661=OFFICE89",
         "ID": 275
@@ -10526,6 +10526,39 @@
         "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE%20LAXOA-CIBOURE&entry.525362661=OFFICE138",
         "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE LAXOA-CIBOURE&entry.525362661=OFFICE138",
         "ID": 324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.684525,
+          43.386484
+        ]
+      },
+      "properties": {
+        "REF": "OFFICE139",
+        "Bailleur": "OFFICE64",
+        "Num Résidence": "135",
+        "Nom de la résidence": "RESIDENCE PILOTA PLAZA",
+        "Commune": "CIBOURE",
+        "Code postal": "64500",
+        "Nb bâtiments": "9",
+        "Nb bâtiments géolocalisés": "9",
+        "Nombre de logements (somme)": "44",
+        "Mise en service (min)": "1991",
+        "Mise en service (max)": "1991",
+        "Exclure": "0",
+        "Nb_visites": "0",
+        "Date": "non visité",
+        "Nbre_votes_direct_elec": "0",
+        "Nbre_votes_direct_env": "0",
+        "Nbre_prom": "0",
+        "Nbre_deja_fait": "0",
+        "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE%20PILOTA%20PLAZA-CIBOURE&entry.525362661=OFFICE139",
+        "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE PILOTA PLAZA-CIBOURE&entry.525362661=OFFICE139",
+        "ID": 325
       }
     },
     {
@@ -12572,6 +12605,39 @@
         "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE%20IBAIA%20ETXEA-ST%20ETIENNE%20DE%20BAIGORRY&entry.525362661=OFFICE203",
         "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE IBAIA ETXEA-ST ETIENNE DE BAIGORRY&entry.525362661=OFFICE203",
         "ID": 389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.636015,
+          43.395136
+        ]
+      },
+      "properties": {
+        "REF": "OFFICE204",
+        "Bailleur": "OFFICE64",
+        "Num Résidence": "653",
+        "Nom de la résidence": "KARZINGO BORDA",
+        "Commune": "ST JEAN DE LUZ",
+        "Code postal": "64500",
+        "Nb bâtiments": "2",
+        "Nb bâtiments géolocalisés": "2",
+        "Nombre de logements (somme)": "30",
+        "Mise en service (min)": "2023",
+        "Mise en service (max)": "2023",
+        "Exclure": "0",
+        "Nb_visites": "0",
+        "Date": "non visité",
+        "Nbre_votes_direct_elec": "0",
+        "Nbre_votes_direct_env": "0",
+        "Nbre_prom": "0",
+        "Nbre_deja_fait": "0",
+        "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=KARZINGO%20BORDA-ST%20JEAN%20DE%20LUZ&entry.525362661=OFFICE204",
+        "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=KARZINGO BORDA-ST JEAN DE LUZ&entry.525362661=OFFICE204",
+        "ID": 390
       }
     },
     {
