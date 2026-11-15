@@ -23,11 +23,11 @@
         "Mise en service (min)": "2023",
         "Mise en service (max)": "2023",
         "Exclure": "0",
-        "Nb_visites": "1",
-        "Date": "17/10/2026",
+        "Nb_visites": "0",
+        "Date": "non visité",
         "Nbre_votes_direct_elec": "0",
         "Nbre_votes_direct_env": "0",
-        "Nbre_prom": "1",
+        "Nbre_prom": "0",
         "Nbre_deja_fait": "0",
         "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=LANDA%20GAINA%20(LLS)-AHETZE&entry.525362661=HSA1",
         "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=LANDA GAINA (LLS)-AHETZE&entry.525362661=HSA1",
@@ -1842,8 +1842,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.484759,
-          43.486649
+          -1.484159,
+          43.486149
         ]
       },
       "properties": {
@@ -2420,8 +2420,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.466195,
-          43.503401
+          -1.466495,
+          43.503801
         ]
       },
       "properties": {
@@ -3355,12 +3355,12 @@
         "Mise en service (min)": "1997",
         "Mise en service (max)": "1997",
         "Exclure": "0",
-        "Nb_visites": "1",
-        "Date": "17/10/2026",
-        "Nbre_votes_direct_elec": "4",
-        "Nbre_votes_direct_env": "3",
-        "Nbre_prom": "2",
-        "Nbre_deja_fait": "1",
+        "Nb_visites": "0",
+        "Date": "non visité",
+        "Nbre_votes_direct_elec": "0",
+        "Nbre_votes_direct_env": "0",
+        "Nbre_prom": "0",
+        "Nbre_deja_fait": "0",
         "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RUE%20DU%20TRINQUET-BAYONNE&entry.525362661=HSA99",
         "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RUE DU TRINQUET-BAYONNE&entry.525362661=HSA99",
         "Portes": "0",
@@ -4392,8 +4392,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.333103,
-          43.460621
+          -1.333403,
+          43.462621
         ]
       },
       "properties": {
@@ -4766,8 +4766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.753481,
-          43.370631
+          -1.753981,
+          43.370931
         ]
       },
       "properties": {
@@ -9237,12 +9237,12 @@
         "Mise en service (min)": "2025",
         "Mise en service (max)": "2025",
         "Exclure": "0",
-        "Nb_visites": "1",
-        "Date": "17/10/2026",
-        "Nbre_votes_direct_elec": "4",
-        "Nbre_votes_direct_env": "5",
-        "Nbre_prom": "10",
-        "Nbre_deja_fait": "3",
+        "Nb_visites": "0",
+        "Date": "non visité",
+        "Nbre_votes_direct_elec": "0",
+        "Nbre_votes_direct_env": "0",
+        "Nbre_prom": "0",
+        "Nbre_deja_fait": "0",
         "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE%20LAMANDE-BIARRITZ&entry.525362661=OFFICE89",
         "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE LAMANDE-BIARRITZ&entry.525362661=OFFICE89",
         "Portes": "0",
@@ -9883,15 +9883,15 @@
         "Mise en service (min)": "1968",
         "Mise en service (max)": "1968",
         "Exclure": "0",
-        "Nb_visites": "1",
-        "Date": "14/11/2026",
-        "Nbre_votes_direct_elec": "1",
-        "Nbre_votes_direct_env": "1",
+        "Nb_visites": "0",
+        "Date": "non visité",
+        "Nbre_votes_direct_elec": "0",
+        "Nbre_votes_direct_env": "0",
         "Nbre_prom": "0",
         "Nbre_deja_fait": "0",
         "LIEN_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE%20HUREOUS-BOUCAU&entry.525362661=OFFICE110",
         "FORMULE": "https://docs.google.com/forms/d/e/1FAIpQLSdZMFZpC8lmnYz05Xn4mLkbjMrFvCOZ9eVzFwVxmTVskA6SMw/viewform?usp=pp_url&entry.428373945=RESIDENCE HUREOUS-BOUCAU&entry.525362661=OFFICE110",
-        "Portes": "1",
+        "Portes": "0",
         "ID": 296
       }
     },
@@ -14048,8 +14048,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.545179,
-          43.354243
+          -1.545679,
+          43.354943
         ]
       },
       "properties": {
